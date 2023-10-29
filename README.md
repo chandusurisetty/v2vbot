@@ -17,6 +17,10 @@ This code allows you to create a voice assistance system.
 
 My goal is to create an AI Call Service with a previous memory storage system.
 
+**Special Thanks**
+
+Special Thanks to palm for making this bot and API service
+
 **Contributions:**
 
 If you find this project interesting, please consider contributing!
